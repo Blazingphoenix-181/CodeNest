@@ -47,6 +47,7 @@
 
 ## 📱 Screenshot
 *(Add screenshot of UI here)*
+<img width="1918" height="935" alt="image" src="https://github.com/user-attachments/assets/feca67ae-e23a-4cf7-a456-310bc8414c56" />
 
 ## 🔧 Advanced Usage
 
